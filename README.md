@@ -1,6 +1,6 @@
 # [andrewpaxson.com](https://andrewpaxson.com)
 
-This is the repo for AP's personal website.
+This repository contains the code for AP's personal website, enhanced with a subscribe-to-blog feature. It includes detailed instructions on how to deploy the website and configure the mailing list for blog subscriptions.
 
 ## How to Deploy Website on Cloudflare
 - Login to your GitHub account and fork this repository
